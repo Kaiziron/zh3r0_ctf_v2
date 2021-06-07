@@ -5,7 +5,9 @@ Yet another server challenge :)
 ⬇️ link - ssrf_link
 Author - ZyperX
 ```
-[http://web.zh3r0.cf:6969/](http://web.zh3r0.cf:6969/)
+~~[http://web.zh3r0.cf:6969/](http://web.zh3r0.cf:6969/)~~
+
+[http://web.zh3r0.cf:1111/](http://web.zh3r0.cf:1111/)
 
 ---
 ## Hint
